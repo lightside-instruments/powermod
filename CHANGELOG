@@ -1,5 +1,5 @@
-powermod-tps54260 (1.3) unstable; urgency=medium
+powermod-tps54260 (1.4) unstable; urgency=medium
 
-  * Initial import and cleanup
+  * Initial public release
 
- -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Mon, 13 Jan 2025 04:22:34 +0100
+ -- Joar Heimonen <joar@lightside-instruments.com>  Mon, 13 Jan 2025 18:46:31 +0100

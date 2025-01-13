@@ -5,7 +5,7 @@
 	(uuid "4d4b0fcd-2c79-4fc3-b5fa-7a0741601344")
 	(paper "A4")
 	(title_block
-		(title "powermod-tps54260-1.2")
+		(title "powermod-tps54260-1.4")
 		(company "Lightside Instruments AS")
 	)
 	(lib_symbols
